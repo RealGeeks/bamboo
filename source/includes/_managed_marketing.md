@@ -1,6 +1,8 @@
 # Managed Marketing
 
-<br>Are you interested in saving time and money? Our marketing experts can drive motivated buyers and sellers to your highly optimized Real Geeks website. That way you can focus on what you do best: Help customers buy and sell homes!
+##Getting Started##
+
+Are you interested in saving time and money? Our marketing experts can drive motivated buyers and sellers to your highly optimized Real Geeks website. That way you can focus on what you do best: Help customers buy and sell homes!
 
 ####Here is how Real Leads Marketing works and costs####
 

@@ -1,5 +1,7 @@
 # Website
 
+##Getting Started##
+
 ##Blog##
 
 ##Content##

@@ -1,5 +1,7 @@
 # Accounts
 
+##Getting Started##
+
 ## Permissions ##
 
 ### Account Permissions Overivew
