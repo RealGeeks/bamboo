@@ -7,13 +7,15 @@ toc_footers:
   - <a href='http://www.keepingitreal.com/'>Keeping it REAL</a>
 
 includes:
-  - introduction
+  - website
+  - crm
+  - workflow_drip_tool
+  - facebook_tool
+  - home_valuation_tool
+  - third_party_integrations
+  - best_practices_and_resources
+  - managed_marketing
   - accounts
-  - site_building
-  - site_building_screencasts
-  - lead_manager
-  - webinar_archive
-  - faq
 
 search: true
 ---
