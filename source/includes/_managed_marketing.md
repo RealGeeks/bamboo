@@ -1,6 +1,6 @@
 # Managed Marketing
 
-Are you interested in saving time and money? Our marketing experts can drive motivated buyers and sellers to your highly optimized Real Geeks website. That way you can focus on what you do best: Help customers buy and sell homes!
+<br>Are you interested in saving time and money? Our marketing experts can drive motivated buyers and sellers to your highly optimized Real Geeks website. That way you can focus on what you do best: Help customers buy and sell homes!
 
 ####Here is how Real Leads Marketing works and costs####
 
@@ -55,7 +55,7 @@ Click [here](#google-ppc) to learn more and get started.
 
 ##Google PPC##
 
-Real Geeks Managed Marketing's Lead Generation through Google Pay-Per-Click
+Lead Generation through Google Pay-Per-Click
 
 ### The Power of Google Pay-Per-Click ###
 
@@ -81,7 +81,7 @@ In this program, our team of certified marketing experts will...
 
 * **Plus Much Much More!**
 
-### How Our Google Pay-Per-Click Program Works ###
+### How Our Google PPC Program Works ###
 Here are some details about how this lead generation program works. With this program, the lead generation is completely managed for you, so you don't have to worry about ad creation, keywords, or anything on the Google side. Instead, you'll be able to spend your time focusing on converting your leads to clients and closing deals!
 
 **Length of Commitment** 6 months (we chose 6 months because this is how long it takes to accurately  estimate your return on investment with these leads. Google is able to target leads with varying levels of intent based on their searches, and many may still be early in the home buying process. This is great for agents because it gives you the opportunity to get both ends of a transaction for leads, as they are not all first-time homebuyers). After six months the commitment continues month-to-month with a 30 day notice.
@@ -123,9 +123,7 @@ For more information on our Real Leads Google program, please download our infor
 
 ##Facebook##
 
-### Real Geeks Facebook Managed Marketing ###
-
-#### Lead Generation through Facebook Lead Ads ####
+Lead Generation through Facebook Lead Ads
 
 ### The Power of Lead Ads ###
 
@@ -140,7 +138,7 @@ If you’ve been around for a while, you’ve probably at least dabbled with Fac
 
 Facebook Lead Ads have gone a long way towards addressing these issues and bringing leads from Facebook on par with those from Google. Lead Ads show an increased contact validity while keeping the efficient cost per lead.
 
-### How Our Facebook Lead Ad Program Works ###
+### How Our FB Lead Ad Program Works ###
 Here are some details about how this lead generation program works. With this program, the lead generation is completely managed for you, so you don't have to worry about ad creation, audiences, or anything on the Facebook side. Instead, you'll be able to spend your time focusing on converting your leads to clients and closing deals!
 
 **Length of Commitment** 6 months (we chose 6 months because this is how long it takes to accurately estimate your ROI with these leads. Because Facebook proactively targets potential leads, they are usually early in the home buying process. This is great for agents because it gives you the opportunity to get both ends of a transaction for leads, as they are not all first-time homebuyers). After six months the commitment continues month-to-month with a 30 day notice.
@@ -173,8 +171,6 @@ $500 management fee/month +
 If you decide you'd like to move forward follow the link below:
 
   * [Select Your Ad Types, Confirm Your Budget and Review & Sign the Real Leads Facebook Terms of Service Agreement](https://www.realgeeks.com/realleadsfacebook)
-
-{here](/#linking-and-navigation)
 
 Once we've received these documents from you, we will schedule a setup call with you to confirm your ad selections and bill your account a one-time prorated management fee, marketing budget, and platform charge so that we can begin your ads as soon as possible. Your ad campaign will go live three (3) business days after submitting the Terms of Service agreement and Ad Selection form. **Your billing date will be moved to the first of the month**.
 
