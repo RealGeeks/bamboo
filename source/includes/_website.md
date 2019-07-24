@@ -4,11 +4,11 @@
 
 ##Content##
 
-##Criaglist##
+##Criagslist Tool##
 
-##Settings##
+##Website Settings##
 
-##Widgets##
+##Website Widgets##
 
 ##Misc##
 

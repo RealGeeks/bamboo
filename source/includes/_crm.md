@@ -8,4 +8,4 @@
 
 ##Calendar##
 
-##Settings##
+##CRM Settings##

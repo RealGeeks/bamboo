@@ -2,12 +2,12 @@
 
 ##Templates##
 
-##Website##
+##Website Best Practices##
 
-##CRM##
+##CRM Best Practices##
 
-##Drip##
+##Drip Best Practices##
 
-##RG FB Tool##
+##RG FB Tool Best Practices##
 
-##Home Valuation Tool##
+##Home Valuation Tool Best Practices##
