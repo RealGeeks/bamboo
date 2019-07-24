@@ -18,6 +18,7 @@ The easy-to-use Real Geeks site features one versatile login username and passwo
 3. A) If the new user already exists in the system, you will receive notification on the screen. Select “Add Existing User.” B) If the user does not yet exist, you will be prompted to create a user name for him or her. Create an email address, enter in the agent’s First and Last Name, and click “Create User.“
 4. Once the user is created or the existing user is added, you can then begin modifying permissions.
 [<img src="images/accounts/how-to-add.jpg"/>](images/accounts/how-to-add.jpg)
+
 #### How to Set Permissions
 1. Select “Websites” from the top navigation bar.
 2. Choose the website you would like to modify and select “Edit/Add Users.”
@@ -25,6 +26,7 @@ The easy-to-use Real Geeks site features one versatile login username and passwo
 4. Check the box next to the types of permissions you would like to set for that user. Select as many or as few as you would like. Select “Save Permissions”.
 5. The set permissions will the appear on the User Manager page under the user’s name.
 [<img src="images/accounts/set-permissions.jpg"/>](images/accounts/set-permissions.jpg)
+
 #### How to Remove a User
 These steps will remove that user’s permissions with that particular site. If that same user is a member of any other sites you may own, repeat this process for the other sites. Please also note that these steps will not permanently delete a user. If will simply remove all of their permissions.
 1. Select “Websites” from the top navigation bar.
@@ -32,7 +34,9 @@ These steps will remove that user’s permissions with that particular site. If 
 3. Locate the User and select “Remove” to delete the User.
 4. Select “OK” to confirm.
 [<img src="images/accounts/remove-a-user.jpg"/>](images/accounts/remove-a-user.jpg)
+
 #### Permissions Overview
+
 **Drip**
 
 - Drip Campaign Manager: Access to Drip system to create or edit workflows
