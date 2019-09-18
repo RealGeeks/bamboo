@@ -20,7 +20,7 @@
   $(bind);
 
   function populate() {
-    $('h1, h2').each(function() {
+    $('h1, h2, h3, h4').each(function() {
       var title = $(this);
       var body = title.nextUntil('h1, h2');
       index.add({
